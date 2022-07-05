@@ -41,6 +41,7 @@ namespace AvailityInsurance
                 var newEnrollee = new Enrollee();
 
                 newEnrollee.UserId = entries[0];
+
                 newEnrollee.FirstName = entries[1];
                 newEnrollee.LastName = entries[2];
 
